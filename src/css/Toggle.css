@@ -1,0 +1,11 @@
+/* Toggle.css */
+.active {
+    background-color: green;
+    color: white;
+  }
+  
+  .inactive {
+    background-color: red;
+    color: white;
+  }
+  
